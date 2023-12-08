@@ -64,7 +64,7 @@ class _PriceScreenState extends State<PriceScreen> {
           child: Padding(
             padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 28),
             child: Text(
-              '1 ${cryptoList[cryptoList.indexOf(crypto)]} = ${await coinData.getCoinData(selectedCurrency, crypto)} $crypto',
+              '1 ${cryptoList[cryptoList.indexOf(crypto)]} = ${await coinData.getCoinData(selectedCurrency, crypto)} $selectedCurrency',
               textAlign: TextAlign.center,
             ),
           ),
