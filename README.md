@@ -1,16 +1,4 @@
-# bitcoin_ticker
+# Bitcoin Ticker Application
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stay on top of the cryptocurrency market with the Bitcoin Tracker app! 🚀💰 Built with Flutter, this easy-to-use app provides real-time updates on Bitcoin prices. With a user-friendly interface, navigating and accessing Bitcoin data has never been more convenient. Immerse yourself in a visually stunning and intuitive app experience.
+![](https://firebasestorage.googleapis.com/v0/b/pager-3c967.appspot.com/o/bitcoin_ticker.png?alt=media&token=997b1a09-aca4-4d62-8e1e-4cc8ac67d0f7)
